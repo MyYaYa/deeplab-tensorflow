@@ -99,3 +99,14 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# PyCharm
+.idea/
+
+# tensorflow
+*.record
+*.tfrecord
+*tfevent*
+*.npy
+data/dataset/
+log/
